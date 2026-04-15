@@ -2,7 +2,6 @@
 # Karas Messenger - Безопасный шифрованный мессенджер 
 
 Веб‑мессенджер (React + Vite) с поддержкой E2EE
-
 Прод: https://directt.up.railway.app/
 
 ## Возможности
