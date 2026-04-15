@@ -1,7 +1,7 @@
+![Closed Source](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 # Karas Messenger - Безопасный шифрованный мессенджер 
 
 Веб‑мессенджер (React + Vite) с поддержкой E2EE
-
 Прод: https://directt.up.railway.app/
 
 ## Возможности
@@ -61,15 +61,6 @@
 
 ## Обратная связь и лицензия
 Мессенджер разработан с использованием генеративного ИИ. Просьба учитывать это. По поводу вопросов, багов и других проблем перейдите на мой линк для связи: https://s1lph.vercel.app
-
-## Google Sign-In and E2EE Backup
-
-- Google Sign-In is now supported alongside the existing username/password flow.
-- Auth providers are `local`, `google`, and `hybrid`.
-- The backend verifies Google ID tokens with `GOOGLE_CLIENT_ID`.
-- Web Google Sign-In requires `VITE_GOOGLE_CLIENT_ID` on the frontend.
-- The E2EE backup password is a separate secret from Google sign-in and can also be separated from the local account password.
-- Google-only accounts can add a regular sign-in password later and become `hybrid`.
 
 <p align="center">
   Сделано с ❤️ by FIVE.ZERO Tech
