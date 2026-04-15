@@ -1,39 +1,67 @@
-KARAS MESSENGER LICENSE (Source Available)
+KARAS MESSENGER SOFTWARE LICENSE AGREEMENT
+
 Copyright (c) 2026 Dmitriy Kutuzov, Vladimir Simonyan
+All rights reserved.
 
-1. Grant of Rights
-
-You are allowed to:
-
-* View and study the source code
-* Use the software for personal and non-commercial purposes
-* Run the software privately
+1. License Grant
+Subject to the terms of this Agreement, the authors grant you a limited, non-exclusive, non-transferable, revocable license to:
+* Use the software for personal or internal purposes
+* Install and run the software on supported devices
 
 2. Restrictions
+You may NOT:
+* Copy, modify, adapt, translate, or create derivative works of the software
+* Reverse engineer, decompile, or disassemble the software
+* Distribute, sublicense, rent, lease, or sell the software
+* Use the software for commercial purposes without explicit permission
+* Provide the software as a service (SaaS), including hosting or reselling access
+* Remove or alter any copyright or proprietary notices
 
-You are NOT allowed to:
+3. Prohibition of Competing Products
+You may NOT:
+* Use the software, its source code, architecture, or design to create, develop, or assist in developing a competing product or service
+* Replicate or attempt to replicate core functionality, user interface, or features of the software for commercial or public use
+* Use any part of the software as a basis for a similar messaging platform or communication service
 
-* Use the software for commercial purposes
-* Sell, sublicense, or distribute the software for profit
-* Create competing products or services based on this software
-* Offer this software as a hosted or SaaS service
-* Modify and redistribute the software
+4. Accounts and Service Access
+* Use of the software may require account registration
+* The authors reserve the right to suspend, restrict, or terminate user accounts at any time, with or without notice, for any reason including violation of this Agreement
+* The authors are not responsible for loss of access to user accounts
 
-3. Attribution
+5. User Data
+* The software may process and store user data necessary for its functionality
+* By using the software, you consent to such data processing
+* The authors are not liable for any data loss, unauthorized access, or breaches
+* Users are responsible for maintaining the confidentiality of their credentials
 
-You must retain all copyright notices and references to the original authors.
+6. Ownership
+The software is licensed, not sold.
+All rights, title, and interest in and to the software remain the exclusive property of the authors.
 
-4. Third-Party Components
+7. Third-Party Software
+This software includes third-party components licensed under MIT, ISC, BSD, and Apache 2.0 licenses.
+These components are subject to their respective licenses.
 
-This software includes third-party open source components licensed under MIT, ISC, BSD, and Apache 2.0 licenses.
-These components remain under their respective licenses.
+8. Updates
+The authors may provide updates, modifications, or new versions of the software at their sole discretion.
+This Agreement applies to all updates unless stated otherwise.
 
-5. Disclaimer
+9. Termination
+This license is effective until terminated.
+It will terminate automatically if you violate any of the terms.
+Upon termination, you must stop using the software and delete all copies.
 
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+10. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-6. Contact
+11. Limitation of Liability
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF DATA, PROFITS, OR BUSINESS INTERRUPTION.
 
-For questions or support:
+12. Governing Law
+This Agreement shall be governed by and interpreted in accordance with applicable laws of the jurisdiction chosen by the authors.
+
+13. Contact
+For permissions, licensing, or support inquiries:
 https://s1lph.vercel.app
+
+END OF LICENSE
