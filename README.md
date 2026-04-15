@@ -62,15 +62,6 @@
 ## Обратная связь и лицензия
 Мессенджер разработан с использованием генеративного ИИ. Просьба учитывать это. По поводу вопросов, багов и других проблем перейдите на мой линк для связи: https://s1lph.vercel.app
 
-## Google Sign-In and E2EE Backup
-
-- Google Sign-In is now supported alongside the existing username/password flow.
-- Auth providers are `local`, `google`, and `hybrid`.
-- The backend verifies Google ID tokens with `GOOGLE_CLIENT_ID`.
-- Web Google Sign-In requires `VITE_GOOGLE_CLIENT_ID` on the frontend.
-- The E2EE backup password is a separate secret from Google sign-in and can also be separated from the local account password.
-- Google-only accounts can add a regular sign-in password later and become `hybrid`.
-
 <p align="center">
   Сделано с ❤️ by FIVE.ZERO Tech
 </p>
