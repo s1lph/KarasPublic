@@ -1,18 +1,19 @@
-![Closed Source](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Closed Source](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 # Karas Messenger - Безопасный шифрованный мессенджер 
 
-Веб‑мессенджер (React + Vite) с поддержкой E2EE
-Прод: https://directt.up.railway.app/
+Кроссплатформенный мессенджер с E2EE шифрованием
 
 ## Возможности
 
-- Личные чаты и групповые чаты.
+- Личные и групповые чаты.
+- Публичные каналы.
 - Отправка сообщений, редактирование и удаление.
 - Рабочие в РФ пересылка файлов и медиа.
-- Звонки через WebRTC + signaling через Socket.IO; используется шифрованный иностранный сервер.
-- Уведомления в браузере и Web Push (Работает на Firefox и Chrome).
+- Звонки, рабочие в РФ без замедлений.
+- Полный функционал демонстраций экрана.
 - E2EE (сквозное шифрование) для личных чатов.
-- Установка на Android/Ios через браузерную закладку.
+- Приложения для Windows, Android.
+- 
 
 ## Как работает E2EE (ключи и шифрование)
 
@@ -33,7 +34,7 @@
 
 Мессенджер устанавливается из браузера и открывается как отдельное приложение.
 
-### Android, нативно для браузера Firefox
+### Android, нативно для браузера Firefox (OUTDATED)
 
 1. Откройте сайт в Firefox: https://directt.up.railway.app/
 2. Нажмите меню (три точки).
@@ -54,9 +55,7 @@
 
 ## Документация
 
-- Полное описание проекта: [docs/PROJECT_DOCUMENTATION_RU.md](docs/PROJECT_DOCUMENTATION_RU.md)
-- Каталог модулей и функций: [docs/FUNCTION_CATALOG_RU.md](docs/FUNCTION_CATALOG_RU.md)
-- Архитектура native Android-клиента: [docs/ANDROID_ARCHITECTURE_RU.md](docs/ANDROID_ARCHITECTURE_RU.md)
+Распологается в папке docs.
 
 
 ## Обратная связь и лицензия
