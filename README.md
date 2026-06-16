@@ -1,7 +1,4 @@
 ![Closed Source](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<p align="center">
-  <img src="landing/public/logo.png" alt="Karas Messenger" width="120" />
-</p>
 
 <h1 align="center">Karas Messenger</h1>
 
